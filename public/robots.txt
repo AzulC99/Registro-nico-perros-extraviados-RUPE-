@@ -1,0 +1,17 @@
+# RUPE CDMX — robots.txt
+User-agent: *
+Allow: /
+Allow: /buscar
+Allow: /conocer
+Allow: /blog
+Allow: /mascota/
+
+# Paneles y API (no indexar)
+Disallow: /admin
+Disallow: /tutor
+Disallow: /auth/
+Disallow: /api/
+Disallow: /assets/uploads/
+
+# Sitemap (activar cuando exista el archivo)
+# Sitemap: https://buscandoahuellitasrupe.com.mx

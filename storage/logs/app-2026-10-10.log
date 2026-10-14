@@ -1,0 +1,13 @@
+[2026-10-10 19:06:29] ERROR DB fail primary+alt {"p":"SQLSTATE[HY000] [1045] Access denied for user 'u977404351_root'@'localhost' (using password: YES)","a":"SQLSTATE[HY000] [1045] Access denied for user 'u977404351_root'@'localhost' (using password: YES)"}
+[2026-10-10 19:06:29] ERROR Home mascotas: SQLSTATE[HY000] [1045] Access denied for user 'u977404351_root'@'localhost' (using password: YES) 
+[2026-10-10 19:06:29] ERROR DB fail primary+alt {"p":"SQLSTATE[HY000] [1045] Access denied for user 'u977404351_root'@'localhost' (using password: YES)","a":"SQLSTATE[HY000] [1045] Access denied for user 'u977404351_root'@'localhost' (using password: YES)"}
+[2026-10-10 19:06:30] ERROR DB fail primary+alt {"p":"SQLSTATE[HY000] [1045] Access denied for user 'u977404351_root'@'localhost' (using password: YES)","a":"SQLSTATE[HY000] [1045] Access denied for user 'u977404351_root'@'localhost' (using password: YES)"}
+[2026-10-10 19:06:30] ERROR Router: SQLSTATE[HY000] [1045] Access denied for user 'u977404351_root'@'localhost' (using password: YES) {"file":"\/home\/u977404351\/domains\/buscandoahuellitasrupe.com.mx\/public_html\/app\/core\/Database.php","line":43}
+[2026-10-10 19:06:30] ERROR DB fail primary+alt {"p":"SQLSTATE[HY000] [1045] Access denied for user 'u977404351_root'@'localhost' (using password: YES)","a":"SQLSTATE[HY000] [1045] Access denied for user 'u977404351_root'@'localhost' (using password: YES)"}
+[2026-10-10 19:06:30] ERROR Router: SQLSTATE[HY000] [1045] Access denied for user 'u977404351_root'@'localhost' (using password: YES) {"file":"\/home\/u977404351\/domains\/buscandoahuellitasrupe.com.mx\/public_html\/app\/core\/Database.php","line":43}
+[2026-10-10 19:08:42] INFO Mail sent {"to":"hazelazul34@gmail.com","subject":"Bienvenido a RUPE CDMX"}
+[2026-10-10 19:14:33] INFO createMascota campos {"collar":"Sí, collar rojo con placa","microchip":"Sí, cuenta con Microchip","tamano":"Pequeño","color":"Blanco con negro","sexo":"macho"}
+[2026-10-10 19:14:39] ERROR DB connection failed {"msg":"SQLSTATE[HY000] [2002] Operation not permitted"}
+[2026-10-10 19:14:39] ERROR Router: SQLSTATE[HY000] [2002] Operation not permitted {"file":"\/home\/u977404351\/domains\/buscandoahuellitasrupe.com.mx\/public_html\/app\/core\/Database.php","line":43}
+[2026-10-10 19:14:48] INFO GPS guardado {"id":21,"lat":19.276607407389168,"lng":-99.2358772561471,"db_lat":"19.2766074","db_lng":"-99.2358773"}
+[2026-10-10 19:14:48] INFO GPS guardado {"id":21,"lat":19.276607407389168,"lng":-99.2358772561471,"db_lat":"19.2766074","db_lng":"-99.2358773"}

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect fill="#F4F6F8" width="400" height="300"/>
+  <circle cx="200" cy="120" r="48" fill="#E8A33D" opacity="0.35"/>
+  <ellipse cx="200" cy="210" rx="70" ry="40" fill="#6B1D2F" opacity="0.2"/>
+  <text x="200" y="270" text-anchor="middle" fill="#6C757D" font-family="system-ui,sans-serif" font-size="16">Sin foto · Perro</text>
+</svg>
