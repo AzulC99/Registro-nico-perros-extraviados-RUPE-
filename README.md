@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RUPE CDMX — Buscando a Huellitas
 
 Sistema de registro y seguimiento de mascotas extraviadas (CDMX).
@@ -370,3 +371,7 @@ storage/logs  storage/rate
 3. **UsuarioDAO / AuditoriaDAO**: LIMIT/OFFSET interpolados como enteros (PDO nativo + MySQL Hostinger).
 4. Vistas tutor/admin usan rutas /assets/... correctas con document root = public/.
 
+=======
+# Registro-nico-perros-extraviados-RUPE-
+Macroproyecto por parte de la UnADM para titulación 
+>>>>>>> f7b96c1376874cd7391048f87bf266bb01af91ce
