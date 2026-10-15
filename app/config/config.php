@@ -38,11 +38,11 @@ define('LOG_PATH', STORAGE_PATH . '/logs');
 // Base de datos (detalle de conexión en database.php)
 // -------------------------------------------------
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'u977404351_buscandohuella');
+define('DB_NAME', '');
 // Si en phpMyAdmin usas otra BD, debe ser ESTA misma. Alternativa conocida: u977404351_huellasrupe
 
-define('DB_USER', 'u977404351_root');
-define('DB_PASS', '>lUi0FwV|Jv4');
+define('DB_USER', '');
+define('DB_PASS', '');
 define('DB_CHARSET', 'utf8mb4');
 
 // -------------------------------------------------
@@ -63,8 +63,8 @@ define('STATUS_LOCALIZADO', 'Localizado');
 // -------------------------------------------------
 // Sesión / seguridad
 // -------------------------------------------------
-define('SESSION_NAME', 'RUPESESSID');
-define('CSRF_TOKEN_KEY', '_csrf');
+define('SESSION_NAME', '');
+define('CSRF_TOKEN_KEY', '');
 define('PASSWORD_ALGO', PASSWORD_BCRYPT);
 define('PASSWORD_OPTIONS', ['cost' => 12]);
 
@@ -76,20 +76,20 @@ define('PASSWORD_OPTIONS', ['cost' => 12]);
 // 3) Dominios: buscandoahuellitasrupe.com.mx (+ www)
 // 4) Pegar Site Key y Secret Key abajo
 // -------------------------------------------------
-define('RECAPTCHA_SITE_KEY', '6LdcRastAAAAAHWxHEOk8Hhhco4LuA5wwWbVx6iH');
-define('RECAPTCHA_SECRET', '6LdcRastAAAAAOZbU3u1JPu9glYdUoS0No73xkGY');
-define('RECAPTCHA_VERIFY_URL', 'https://www.google.com/recaptcha/api/siteverify');
+define('RECAPTCHA_SITE_KEY', '');
+define('RECAPTCHA_SECRET', '');
+define('RECAPTCHA_VERIFY_URL', '');
 define('RECAPTCHA_MIN_SCORE', 0.5); // 0.0-1.0 (0.5 recomendado)
 
 // -------------------------------------------------
 // Correo SMTP Hostinger (detalle en mail.php)
 // -------------------------------------------------
-define('MAIL_FROM', 'admin@buscandoahuellitasrupe.com.mx');
+define('MAIL_FROM', '');
 define('MAIL_FROM_NAME', 'RUPE CDMX');
 define('MAIL_HOST', 'smtp.hostinger.com');
 define('MAIL_PORT', 465);
-define('MAIL_USER', 'admin@buscandoahuellitasrupe.com.mx');
-define('MAIL_PASS', 'D8$*Si+d');
+define('MAIL_USER', '');
+define('MAIL_PASS', '');
 define('MAIL_ENCRYPTION', 'ssl'); // ssl (465) | tls (587)
 
 // -------------------------------------------------
